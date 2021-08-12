@@ -1,4 +1,3 @@
-# Bubble sort
 from typing import MutableSequence
 
 def bubble_sort(a: MutableSequence) -> None:
